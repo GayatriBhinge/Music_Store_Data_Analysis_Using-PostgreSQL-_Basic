@@ -31,18 +31,12 @@ Thanks to Rishabh Mishra.
 
 
 ## 🚀 About Me
-I'm a Data Analytics.
+Hi, I'm Gayatri, and  I'm  passionate about Data Analytics and also pursuing a PG Program at IIITB Data Science Program.
 
 
 ## 🛠 Skills
 POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
 
-
-
-
-<img align = "right" alt ="coding" width="400" 
-https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png>
-## Screenshots
 
 ![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png)
 
