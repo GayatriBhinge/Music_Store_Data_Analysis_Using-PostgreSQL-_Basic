@@ -38,8 +38,7 @@ I'm a Data Analytics.
 POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
 
 
-## Schema
-##  Schema Used In This Project
+
 
 <img align = "right" alt ="coding" width="400" 
 https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png>
