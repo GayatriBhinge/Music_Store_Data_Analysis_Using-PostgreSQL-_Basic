@@ -37,6 +37,6 @@ Hi, I'm Gayatri, and  I'm  passionate about Data Analytics and also pursuing a P
 ## 🛠 Skills
 POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
 
-
+## Project-Music Sore Data Schema
 ![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png)
 
