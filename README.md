@@ -31,12 +31,51 @@ Thanks to Rishabh Mishra.
 
 
 ## 🚀 About Me
-Hi, I'm Gayatri, and  I'm  passionate about Data Analytics and also pursuing a PG Program at IIITB Data Science Program.
-
+Hi, I'm Gayatri, and as a data analyst, I'm passionate about Data Analytics and also pursuing a PG Program at IIITB Data Science.
 
 ## 🛠 Skills
-POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYTICS
+POSTGRESQL, SQL, EXCELL, PYTHON, PANDAS, NUMPY, DATA ANALYTICS, EDA.
 
 ## Project-Music Store Data Schema
 ![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/MusicDatabaseSchema.png)
+
+## Q1 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question1.PNG)
+
+## Q2 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question2.PNG)
+
+## Q3 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question3.PNG)
+
+## Q4 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question4.PNG)
+
+## Q5 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question5.PNG)
+
+## Q6 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question6.PNG)
+
+## Q7 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question7.PNG)
+
+## Q8 Code and Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question8.PNG)
+
+## Q9 Code
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question9-code.PNG)
+
+## Q9 Output
+![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question9-output.PNG)
+
+
+
+
+
+
+
+
+
+
 
