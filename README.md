@@ -63,12 +63,12 @@ POSTGRESQL, SQL, EXCELL, PYTHON, PANDAS, NUMPY, DATA ANALYTICS, EDA.
 ## Q8 Code and Output
 ![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question8.PNG)
 
+
 ## Q9 Code
 ![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question9-code.PNG)
 
 ## Q9 Output
 ![App Screenshot](https://github.com/GayatriBhinge/Music_Store_Data_Analysis_Using-PostgreSQL-_Basic/blob/main/Question9-output.PNG)
-
 
 
 
